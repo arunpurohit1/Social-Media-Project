@@ -1,0 +1,58 @@
+
+a{
+  color: black !important;
+}
+
+h1{
+  color: aliceblue;
+}
+h5{
+  padding-bottom: 20px;
+}
+
+.auth-card , input{
+  background-color:bisque;
+  margin-left:  30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  text-align: center;
+
+}
+.auth-card>form>input{
+  background-color: black !important;
+  color: white;
+  font-size: x-large !important;
+}
+
+.gallery{
+   
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 30%;
+}
+
+.parent{
+  max-width: 550px;
+  margin: 0px auto;
+}
+
+
+
+.home-card{
+  max-width: 500px;
+  height: max-content;
+   margin: 26px auto;
+  text-align: center;
+}
+
+
+.Team{
+  text-align: center;
+  background-color: black;
+  color: wheat;
+  font-size: xx-large;
+}
